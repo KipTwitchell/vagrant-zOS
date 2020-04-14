@@ -34,7 +34,7 @@ mkdir tk4-
 cd tk4-
 wget http://wotho.ethz.ch/tk4-/tk4-_v1.00.zip
 
-http://127.0.0.1:8038
+for z in *.zip; do unzip $z; done
 
 echo '************************************************************************************'
 echo '*****          Hercules VM for z installed, and TK4- MVS as well             *******'
