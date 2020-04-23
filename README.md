@@ -2,6 +2,8 @@
 
 This project builds a z/OS Hercules environment inside a Vagrant Box for easy setup and destruction.
 
+A video of the results of this project is available at: https://youtu.be/121MWcHlVgo
+
 Other development tools, such as Java, Scala and the scala build tool sbt can easily be added to the Vagrant environment.
 
 # Hercules
